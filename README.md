@@ -1,2 +1,4 @@
-# Inversion
-Crustal structures obtained from waveform modeling using deep neural network
+# DNN model used for 1d inversion 
+
+We present a wavefrom inversion scheme that using state-of-the-art DNN. 
+
