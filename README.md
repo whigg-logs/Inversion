@@ -12,8 +12,6 @@ This repository contains:
 3. [Wave number code](None) to generate training data.
 4. [Plots](plot.py) used for plot.
 
-Standard Readme is designed for open source libraries. Although it’s [historically](#background) made for Node and npm projects, it also applies to libraries in other languages and package managers.
-
 
 ## Table of Contents
 
@@ -56,11 +54,11 @@ optional arguments:
 
 ### Usage 
 ```
-valid.py [-h] [--fk PATH_TO_FK]
+train.py [-h] [--fk PATH_TO_FK] 
          [--data PATH_TO_DATA] 
          [--model MODEL]
 positional arguments:
-  --fk        path to fk
+  --fk        path to fk 
 optional arguments:
   -h, --help         show this help message and exit
   --model MODEL      path to model weight file, default model
